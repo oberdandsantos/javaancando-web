@@ -1,0 +1,59 @@
+package br.com.allianz.models;
+
+import br.com.allianz.models.Convidado;
+
+public class ConvidadosDao extends Dao <Convidado, String> {
+
+	@Override
+	public void incluir(Convidado elemento) throws Exception {
+		try {
+			abrirConexao();
+			stmt = cn.prepareStatement("INSERT INTO CONVIDADOS (CPF, IDEVENTO, NOME,EMAIL, "
+									+  "TELEFONE) VALUES (?,?,?,?,?)");
+			stmt.setString(1, elemento.getCpf());
+			stmt.setInt(2, elemento.getEvento().getId());
+			stmt.setString(1, elemento.getNome());
+			stmt.setString(1, elemento.getEmail());
+			stmt.setString(1, elemento.getTelefone());
+			
+			stmt.executeUpdate();
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			fecharConexao();
+		}		
+	}
+
+	@Override
+	public Convidado Buscar(String chave) throws Exception {
+		Convidado convidado = null;
+		try {
+			abrirConexao();
+			stmt = cn.prepareStatement("SELECT * FROM CONVIDADOS WHERE CPF=?");
+			stmt.setString(1, chave);
+			rs = stmt.executeQuery();
+			if (rs.next()) {
+				convidado = new Convidado();
+				convidado.setCpf("CPF");
+				convidado.setNome("NOME");
+				convidado.setEmail("EMAIL");
+				convidado.setTelefone("TELEFONE");
+
+				int id_evento = rs.getInt("IDEVENTO");
+				EventosDao edao = new EventosDao();
+				Evento evento = edao.Buscar(id_evento);
+				
+			}
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			fecharConexao();
+		}
+		return convidado;
+	}
+	
+
+
+}

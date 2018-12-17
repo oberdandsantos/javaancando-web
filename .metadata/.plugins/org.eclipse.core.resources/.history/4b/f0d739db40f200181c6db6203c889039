@@ -1,0 +1,44 @@
+package br.com.allianz.controllers;
+
+import javax.transaction.Transactional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.ModelMap;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import br.com.allianz.dao.UsersDao;
+import br.com.allianz.models.User;
+
+@Controller
+@Transactional
+@RequestMapping("/users")
+public class UsersController {
+
+	@Autowired
+	UsersDao usersDao;
+	
+	@RequestMapping("/cadastro")
+	public String incluir() {
+		return "users/incluirUsuario";
+	}
+	
+	@RequestMapping(value="/cadusuario")
+	public String incluir(User usuario, ModelMap model) {
+		try {
+			String senha = usuario.getPassword();
+			String crypto = new BCryptPasswordEncoder().encode(senha);
+			usuario.setPassword(crypto);
+			
+			usuario.setEnabled(true);
+			usersDao.save(usuario);
+			model.addAttribute("mensagem", "Usuario Incluído com sucesso");
+			return "users/incluirUsuario";
+			
+		} catch (Exception e) {
+			
+		}
+		
+	}
+}

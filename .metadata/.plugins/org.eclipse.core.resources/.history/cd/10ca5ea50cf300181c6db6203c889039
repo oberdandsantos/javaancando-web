@@ -1,0 +1,62 @@
+package br.com.allianz.app;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+
+import com.google.gson.Gson;
+
+import br.com.allianz.viewmodel.ConvidadoVM;
+
+public class AppRest {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	public static void getServico() throws Exception{
+		//url do serviço a ser consumido
+		String url = "http://localhost:8080/Projeto04_SpringMVC_Classes/api/convidados";
+		
+		//objeto usado para alcançar o serviço
+		URL obj = new URL(url);
+		
+		//objeto responsável por buscar o fluxo de bytes
+		HttpURLConnection con = (HttpURLConnection)obj.openConnection();
+		
+		//especificação do verbo HTTP
+		con.setRequestMethod("GET");
+		
+		//objeto usado para referenciar o fluxo de bytes obtidos do serviço
+		BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+		
+		//recebera o fluxo de bytes desserializado
+		StringBuilder response = new StringBuilder();
+		
+		String linha;
+		while ((linha = in.readLine()) != null) {
+			response.append(linha);			
+		}
+		in.close();
+		
+		String json = response.toString();
+		
+		//O objeto Gson converterá o conteúdo json
+		//para a estrutura adequada da nossa classe
+		Gson gson = new Gson();
+		
+		ConvidadoVM[]  convidados = gson.fromJson(json, ConvidadoVM[].class);
+		
+		//Apresentação dos resultados
+		for (ConvidadoVM vm : convidados) {
+			System.out.println("Cpf: " + vm.getCpf());
+			System.out.println("Nome: " + vm.getNome());
+			System.out.println("Email: " + vm.getEmail());
+			System.out.println("Telefone: " + vm.getTelefone());
+			System.out.println("---------------------");
+			
+		}
+				
+	}
+}

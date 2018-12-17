@@ -1,0 +1,79 @@
+package br.com.allianz.servlets;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebInitParam;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import br.com.allianz.models.Usuario;
+
+@WebServlet(urlPatterns = { "/login" }, initParams = { @WebInitParam(name = "user", value = "admin"),
+		@WebInitParam(name = "password", value = "admin") })
+public class ServletLogin extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	public ServletLogin() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		response.sendRedirect("index.jsp");
+//		response.sendRedirect("login");
+//		PrintWriter out = response.getWriter();
+//		response.setContentType("text/html"); // MIME type
+//		out.print("<h1> Exemplo de requisição GET</h1>");
+//		doPost(request, response);
+	}
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+
+		PrintWriter out = response.getWriter();
+
+		try {
+			// OBTENDO OS VALORES DOS CAMPOS DE ENTRADA DO FORM
+			
+			String sNome = request.getParameter("nome");
+			String sSenha = request.getParameter("senha");
+
+			// OBTENDO OS VALORES DOS PARAMETROS DE INICIALIZAÇÃO:
+			// USO DO SERVLETCONFIG
+			
+			ServletConfig config = this.getServletConfig();
+			String sUser = config.getInitParameter("user");
+			String sPassword = config.getInitParameter("password");
+
+			// COMPARANDO OS DADOS DE ENTRADA COM OS PARAMETROS DE
+			// INICIALIZAÇÃO
+
+			if (sNome == null || "".equals(sUser) && sSenha == null || "".equals(sSenha)) {
+				throw new IllegalArgumentException("Usuário ou senha em Branco");
+			} else 
+				if (sNome.equals(sUser) && sSenha.equals(sPassword)) {
+					Usuario usario = new Usuario();
+					usuario.setNome(sNome);
+					Usuario.setSenha(sSenha);
+					
+					request.setAttribute("nome_usuario", sNome);
+					request.setAttribute("senha_usuario", sSenha);
+					request.getRequestDispatcher("/WEB-INF/sucesso.jsp").forward(request, response);
+			} else {
+				throw new IllegalArgumentException("Usuário ou senha inválido");
+			}
+
+		} catch (Exception e) {
+			request.setAttribute("mensagem_erro", e.getMessage());
+			request.getRequestDispatcher("/WEB-INF/erro.jsp").forward(request, response);
+		}
+
+	}
+
+}

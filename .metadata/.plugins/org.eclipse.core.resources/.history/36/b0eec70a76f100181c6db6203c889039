@@ -1,0 +1,89 @@
+package br.com.allianz.models;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.FetchType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.ManyToOne;
+import javax.persistence.Table;
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
+
+@Entity
+@Table(name="convidados")
+public class Convidado {
+
+	@Id
+	@Size(min=11,max=11,message="{erro.cpf.convidado.tamanho}")		
+	private String cpf;
+	
+	@ManyToOne(fetch=FetchType.LAZY)
+	@JoinColumn(name="IDEVENTO")
+	private Evento evento;
+
+	@Column(name="NOME")
+	@NotNull
+	@NotEmpty(message="{erro.nome.convidado.vazio}")
+	@Size(min=5,max=45,message="{erro.nome.convidado.tamanho}")		
+	private String nome;
+	
+	@Column(name="EMAIL")
+	@NotNull
+	@NotEmpty(message="{erro.email.convidado.vazio}")
+	@Size(min=5,max=60,message="{erro.email.convidado.tamanho}")		
+	private String email;
+	
+	@Column(name="TELEFONE", length=15)
+	@NotNull
+	@NotEmpty(message="{erro.telefon.convidado.vazio}")
+	@Size(min=5,max=15,message="{erro.telefone.convidado.tamanho}")
+	private String telefone;
+		
+	public Convidado() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public Convidado(String cpf, Evento evento, String nome, String email, String telefone) {
+		super();
+		this.cpf = cpf;
+		this.evento = evento;
+		this.nome = nome;
+		this.email = email;
+		this.telefone = telefone;
+	}
+	public String getCpf() {
+		return cpf;
+	}
+	public void setCpf(String cpf) {
+		this.cpf = cpf;
+	}
+	public Evento getEvento() {
+		return evento;
+	}
+	public void setEvento(Evento evento) {
+		this.evento = evento;
+	}
+	public String getNome() {
+		return nome;
+	}
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	public String getEmail() {
+		return email;
+	}
+	public void setEmail(String email) {
+		this.email = email;
+	}
+	public String getTelefone() {
+		return telefone;
+	}
+	public void setTelefone(String telefone) {
+		this.telefone = telefone;
+	}
+	
+	
+	
+}

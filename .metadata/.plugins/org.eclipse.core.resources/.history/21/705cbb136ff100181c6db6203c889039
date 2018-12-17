@@ -1,0 +1,8 @@
+erro.usuario.descricao.vazio=Nome do usuário não pode ser vazio.
+erro.usuario.descricao.tamanho=O Nome do usuário deve conter {min} e {max} caracteres.
+erro.descricao.evento.vazio=Descrição do evento não pode ser vazio.
+erro.descricao.evento.tamanho=A Descrição do evento deve conter {min} e {max} caracteres.
+erro.descricao.evento.vazio=Nome do responsável não pode ser vazio.
+erro.descricao.evento.tamanho=O Nome do responsável deve conter {min} e {max} caracteres.
+erro.descricao.evento.vazio=Preço do evento não pode ser vazio.
+erro.descricao.evento.tamanho=O preço deve ser igual ou maior que 1.

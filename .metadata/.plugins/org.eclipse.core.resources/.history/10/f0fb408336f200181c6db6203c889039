@@ -1,0 +1,9 @@
+package br.com.allianz.models;
+
+import org.springframework.security.core.userdetails.UserDetails;
+import org.springframework.security.core.userdetails.UserDetailsService;
+
+public class User implements UserDetails{
+
+	
+}

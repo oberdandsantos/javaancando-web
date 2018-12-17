@@ -1,0 +1,6 @@
+127.0.0.1 - - [31/Oct/2018:09:24:56 -0300] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [31/Oct/2018:09:25:52 -0300] "GET /Projeto01_ConceitosWeb/login HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [31/Oct/2018:09:25:59 -0300] "GET /Projeto01_ConceitosWeb/index.jsp HTTP/1.1" 200 527
+0:0:0:0:0:0:0:1 - - [31/Oct/2018:09:26:02 -0300] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [31/Oct/2018:09:26:19 -0300] "GET /Projeto01_ConceitosWeb/sucesso.jsp HTTP/1.1" 200 170
+0:0:0:0:0:0:0:1 - - [31/Oct/2018:09:26:28 -0300] "GET /Projeto01_ConceitosWeb/erro.jsp HTTP/1.1" 200 185

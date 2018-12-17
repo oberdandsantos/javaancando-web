@@ -1,0 +1,10 @@
+package br.com.allianz.viewmodel;
+
+public class ConvidadoVM {
+
+	private int idEvento;
+	private String cpf;
+	private String nome;
+	private String telefone;
+	private String email;
+}

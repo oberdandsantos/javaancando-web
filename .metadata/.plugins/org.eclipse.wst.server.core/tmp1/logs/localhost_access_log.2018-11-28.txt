@@ -1,0 +1,11 @@
+127.0.0.1 - - [28/Nov/2018:10:24:47 -0200] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [28/Nov/2018:10:26:04 -0200] "GET /Projeto04_SpringMVC_Classes/ HTTP/1.1" 200 718
+0:0:0:0:0:0:0:1 - - [28/Nov/2018:10:26:06 -0200] "GET /Projeto03_SpringMVC/ HTTP/1.1" 404 1098
+0:0:0:0:0:0:0:1 - - [28/Nov/2018:10:26:08 -0200] "GET /favicon.ico HTTP/1.1" 404 1085
+0:0:0:0:0:0:0:1 - - [28/Nov/2018:10:26:19 -0200] "GET /Projeto04_SpringMVC_Classes/ HTTP/1.1" 200 718
+0:0:0:0:0:0:0:1 - - [28/Nov/2018:10:26:39 -0200] "GET /Projeto04_SpringMVC_Classes/api/convidados HTTP/1.1" 200 362
+127.0.0.1 - - [28/Nov/2018:10:55:01 -0200] "GET /Projeto04_SpringMVC_Classes/api/convidados HTTP/1.1" 200 362
+0:0:0:0:0:0:0:1 - - [28/Nov/2018:11:00:34 -0200] "GET /Projeto04_SpringMVC_Classes/api/convidados HTTP/1.1" 200 362
+0:0:0:0:0:0:0:1 - - [28/Nov/2018:11:28:50 -0200] "GET /Projeto04_SpringMVC_Classes/api/convidados HTTP/1.1" 200 362
+0:0:0:0:0:0:0:1 - - [28/Nov/2018:11:31:32 -0200] "GET /Projeto04_SpringMVC_Classes/api/convidados HTTP/1.1" 200 362
+127.0.0.1 - - [28/Nov/2018:11:32:41 -0200] "POST /Projeto04_SpringMVC_Classes/api/convidados HTTP/1.1" 200 -

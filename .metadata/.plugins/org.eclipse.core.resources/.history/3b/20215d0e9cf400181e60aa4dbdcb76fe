@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Lista de Convidados</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+</head>
+<body>
+	<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+	<h1>Lista de convidados por evento</h1>
+	
+	<form action=<c:url value="/convidados/lista" /> method="get">
+		<label>Evento:</label><br/>
+		<select name="idEvento">
+			<c:forEach var="e" items="${eventos}">
+				<c:choose>
+					<c:when test="${idSelecionado eq e.id}">
+						<option value="${e.id}" selected>${e.descricao}</option>
+					</c:when>
+					<c:otherwise>
+						<option value="${e.id}">${e.descricao}</option>
+					</c:otherwise>
+				</c:choose>
+			</c:forEach>
+		</select> <br/>
+	
+		<input type="submit" value="Listar Convidados" />
+		<hr/>
+		
+		<c:if test="${not empty convidados}">
+			<table class="table table-striped">
+				<tr>
+					<th>CPF</th>
+					<th>NOME</th>
+					<th>EMAIL</th>
+					<th>TELEFONE</th>
+				</tr>
+				<c:forEach var="c" items="${convidados}">
+					<tr>
+						<th>${c.cpf}</th>
+						<th>${c.nome}</th>
+						<th>${c.email}</th>
+						<th>${c.telefone}</th>
+					</tr>				
+				</c:forEach>
+			
+			</table>
+		</c:if>
+		
+	</form>	
+</body>
+</html>

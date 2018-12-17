@@ -1,0 +1,13 @@
+package br.com.allianz.app;
+
+public class AppRest {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	public static void getServico() throws Exception{
+		//url do serviço a ser consumido
+		String url = "";
+	}
+}

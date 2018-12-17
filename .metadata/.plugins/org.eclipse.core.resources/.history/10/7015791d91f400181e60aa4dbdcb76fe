@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Exemplos Javascript</title>
+
+<script type="text/javascript">
+	function mostrarDados(){
+		//obtendo os valores dos campos de entrada
+		var nomePessoa = document.getElementById("nome")
+		
+		
+		
+		
+		
+		
+		
+	}
+</script>
+
+</head>
+<body>
+
+<h1>Simulando cadastro de pessoas</h1>
+
+<label>Nome:</label><br/>
+<input type="text" id="nome"/><br/>
+
+<label>Idade:</label><br/>
+<input type="number" id="idade"/><br/>
+
+<input type="button"  value="Mostrar "id="btnMostrar"/><br/>
+<div id="resposta"></div>
+
+
+
+</body>
+</html>

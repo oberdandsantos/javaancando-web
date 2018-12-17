@@ -1,0 +1,5 @@
+package br.com.allianz.controllers;
+
+public class RestApiController {
+
+}

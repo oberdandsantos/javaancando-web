@@ -1,0 +1,2 @@
+erro.usuario.descricao.vazio=Nome do usuário não pode ser vazio
+erro.usuario.descricao.tamanho=Nome do usuário deve conter min 4 e max 20 caracteres

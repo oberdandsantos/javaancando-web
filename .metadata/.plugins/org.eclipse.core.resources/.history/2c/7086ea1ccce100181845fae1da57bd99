@@ -1,0 +1,36 @@
+package br.com.allianz.models;
+
+import br.com.allianz.models.Convidado;
+
+public class ConvidadosDao extends Dao <Convidado, String> {
+
+	@Override
+	public void incluir(Convidado elemento) throws Exception {
+		try {
+			abrirConexao();
+			stmt = cn.prepareStatement("INSERT INTO CONVIDADOS (CPF, IDEVENTO, NOME,EMAIL, "
+									+  "TELEFONE) VALUES (?,?,?,?,?)");
+			stmt.setString(1, elemento.getCpf());
+			stmt.setInt(2, elemento.getEvento().getId());
+			stmt.setString(1, elemento.getNome());
+			stmt.setString(1, elemento.getEmail());
+			stmt.setString(1, elemento.getTelefone());
+			
+			stmt.executeUpdate();
+
+		} catch (Exception e) {
+			throw e;
+		} finally {
+			fecharConexao();
+		}		
+	}
+
+	@Override
+	public Convidado Buscar(String chave) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+
+
+}

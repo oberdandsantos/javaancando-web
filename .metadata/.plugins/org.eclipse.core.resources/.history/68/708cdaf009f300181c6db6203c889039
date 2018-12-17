@@ -1,0 +1,8 @@
+package br.com.allianz.app;
+
+public class AppRest {
+
+	public static void main(String[] args) {
+		
+	}
+}

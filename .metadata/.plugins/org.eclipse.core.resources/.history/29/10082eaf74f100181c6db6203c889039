@@ -1,0 +1,19 @@
+erro.usuario.descricao.vazio=Nome do usuário não pode ser vazio.
+erro.usuario.descricao.tamanho=O Nome do usuário deve conter {min} e {max} caracteres.
+
+erro.descricao.evento.vazio=Descrição do evento não pode ser vazio.
+erro.descricao.evento.tamanho=A descrição do evento deve conter {min} e {max} caracteres.
+erro.descricao.evento.vazio=Nome do responsável não pode ser vazio.
+erro.descricao.evento.tamanho=O Nome do responsável deve conter {min} e {max} caracteres.
+erro.descricao.evento.vazio=Preço do evento não pode ser vazio.
+erro.descricao.evento.tamanho=O preço deve ser maior que zero.
+
+
+erro.cpf.convidado.tamanho=Descrição do evento não pode ser vazio.
+
+erro.nome.convidado.vazio=Nome do convidado não pode ser vazio.
+erro.nome.convidado.tamanho=O nome do convidado deve conter {min} e {max} caracteres.
+erro.email.convidado.vazio=Email do convidado não pode ser vazio.
+erro.email.convidado.tamanho=O email do convidado deve conter {min} e {max} caracteres.
+erro.telefon.convidado.vazio=O preço deve ser maior que zero.
+erro.telefone.convidado.tamanho=O telefone do convidado deve conter {min} e {max} caracteres.

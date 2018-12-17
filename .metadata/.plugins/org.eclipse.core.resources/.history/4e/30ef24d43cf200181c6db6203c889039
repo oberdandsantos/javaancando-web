@@ -1,0 +1,7 @@
+package br.com.allianz.dao;
+
+import org.springframework.security.core.userdetails.UserDetailsService;
+
+public class UsersDao implements UserDetailsService {
+
+}

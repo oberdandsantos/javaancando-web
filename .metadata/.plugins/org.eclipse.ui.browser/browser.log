@@ -1,0 +1,450 @@
+
+out 29, 2018 11:22:53.20 NEW SESSION
+out 29, 2018 11:22:53.21 [11992:7008:1029/112253.199:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 29, 2018 11:22:53.22 [11992:7008:1029/112253.199:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 29, 2018 11:22:53.65 [11992:13424:1029/112253.648:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 29, 2018 11:22:53.65 [11992:13424:1029/112253.648:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 29, 2018 11:22:53.66 [11992:13424:1029/112253.648:ERROR:disk_cache.cc(168)] Unable to create cache
+out 29, 2018 11:22:53.67 [11992:13424:1029/112253.648:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 29, 2018 11:22:56.78 Foi criada uma nova janela em uma sessão existente do navegador.
+out 29, 2018 11:42:45.12 [16564:12588:1029/114245.119:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 29, 2018 11:42:45.14 [16564:12588:1029/114245.119:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 29, 2018 11:42:45.51 [16564:18132:1029/114245.515:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 29, 2018 11:42:45.52 [16564:18132:1029/114245.515:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 29, 2018 11:42:45.52 [16564:18132:1029/114245.515:ERROR:disk_cache.cc(168)] Unable to create cache
+out 29, 2018 11:42:45.52 [16564:18132:1029/114245.515:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 29, 2018 11:42:47.61 Foi criada uma nova janela em uma sessão existente do navegador.
+out 29, 2018 11:49:07.10 [14568:18308:1029/114907.106:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 29, 2018 11:49:07.11 [14568:18308:1029/114907.106:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 29, 2018 11:49:07.19 [14568:13428:1029/114907.190:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 29, 2018 11:49:07.19 [14568:13428:1029/114907.190:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 29, 2018 11:49:07.19 [14568:13428:1029/114907.190:ERROR:disk_cache.cc(168)] Unable to create cache
+out 29, 2018 11:49:07.20 [14568:13428:1029/114907.190:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 29, 2018 11:49:07.45 Foi criada uma nova janela em uma sessão existente do navegador.
+
+out 30, 2018 09:55:35.68 NEW SESSION
+out 30, 2018 09:55:35.70 [22168:19924:1030/095535.669:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 30, 2018 09:55:35.71 [22168:19924:1030/095535.669:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 30, 2018 09:55:36.04 [22168:17984:1030/095536.043:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 30, 2018 09:55:36.04 [22168:17984:1030/095536.043:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 30, 2018 09:55:36.05 [22168:17984:1030/095536.043:ERROR:disk_cache.cc(168)] Unable to create cache
+out 30, 2018 09:55:36.05 [22168:17984:1030/095536.043:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 30, 2018 09:55:37.55 Foi criada uma nova janela em uma sessão existente do navegador.
+out 30, 2018 10:10:11.53 [17460:19228:1030/101011.529:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 30, 2018 10:10:11.57 [17460:19228:1030/101011.529:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 30, 2018 10:10:12.05 [17460:22900:1030/101012.049:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 30, 2018 10:10:12.05 [17460:22900:1030/101012.049:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 30, 2018 10:10:12.05 [17460:22900:1030/101012.049:ERROR:disk_cache.cc(168)] Unable to create cache
+out 30, 2018 10:10:12.06 [17460:22900:1030/101012.049:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 30, 2018 10:10:13.24 Foi criada uma nova janela em uma sessão existente do navegador.
+out 30, 2018 10:45:30.04 [22948:10608:1030/104530.046:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 30, 2018 10:45:30.09 [22948:10608:1030/104530.046:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 30, 2018 10:45:30.25 [22948:24472:1030/104530.256:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 30, 2018 10:45:30.26 [22948:24472:1030/104530.257:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 30, 2018 10:45:30.26 [22948:24472:1030/104530.257:ERROR:disk_cache.cc(168)] Unable to create cache
+out 30, 2018 10:45:30.26 [22948:24472:1030/104530.257:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 30, 2018 10:45:31.97 Foi criada uma nova janela em uma sessão existente do navegador.
+out 30, 2018 11:00:36.72 [14848:20844:1030/110036.720:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 30, 2018 11:00:36.72 [14848:20844:1030/110036.721:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 30, 2018 11:00:36.83 [14848:24484:1030/110036.829:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 30, 2018 11:00:36.83 [14848:24484:1030/110036.829:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 30, 2018 11:00:36.84 [14848:24484:1030/110036.829:ERROR:disk_cache.cc(168)] Unable to create cache
+out 30, 2018 11:00:36.84 [14848:24484:1030/110036.829:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 30, 2018 11:00:37.11 Foi criada uma nova janela em uma sessão existente do navegador.
+out 30, 2018 11:25:05.23 [20808:24568:1030/112505.231:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 30, 2018 11:25:05.23 [20808:24568:1030/112505.232:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 30, 2018 11:25:05.59 [20808:22900:1030/112505.591:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 30, 2018 11:25:05.59 [20808:22900:1030/112505.591:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 30, 2018 11:25:05.60 [20808:22900:1030/112505.591:ERROR:disk_cache.cc(168)] Unable to create cache
+out 30, 2018 11:25:05.60 [20808:22900:1030/112505.591:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 30, 2018 11:25:05.87 Foi criada uma nova janela em uma sessão existente do navegador.
+out 30, 2018 11:28:01.04 [18544:22512:1030/112801.043:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 30, 2018 11:28:01.04 [18544:22512:1030/112801.043:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 30, 2018 11:28:01.12 [18544:22852:1030/112801.122:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 30, 2018 11:28:01.12 [18544:22852:1030/112801.122:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 30, 2018 11:28:01.13 [18544:22852:1030/112801.122:ERROR:disk_cache.cc(168)] Unable to create cache
+out 30, 2018 11:28:01.13 [18544:22852:1030/112801.122:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 30, 2018 11:28:01.41 Foi criada uma nova janela em uma sessão existente do navegador.
+out 30, 2018 11:31:05.80 [23916:21944:1030/113105.805:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 30, 2018 11:31:05.80 [23916:21944:1030/113105.805:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 30, 2018 11:31:05.89 [23916:21268:1030/113105.888:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 30, 2018 11:31:05.89 [23916:21268:1030/113105.888:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 30, 2018 11:31:05.89 [23916:21268:1030/113105.888:ERROR:disk_cache.cc(168)] Unable to create cache
+out 30, 2018 11:31:05.90 [23916:21268:1030/113105.888:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 30, 2018 11:31:06.13 Foi criada uma nova janela em uma sessão existente do navegador.
+out 30, 2018 11:38:04.72 [23916:15148:1030/113804.721:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 30, 2018 11:38:04.72 [23916:15148:1030/113804.721:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 30, 2018 11:38:04.80 [23916:20260:1030/113804.808:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+out 30, 2018 11:38:04.81 [23916:20260:1030/113804.808:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+out 30, 2018 11:38:04.81 [23916:20260:1030/113804.808:ERROR:disk_cache.cc(168)] Unable to create cache
+out 30, 2018 11:38:04.82 [23916:20260:1030/113804.808:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+out 30, 2018 11:38:08.15 Foi criada uma nova janela em uma sessão existente do navegador.
+
+out 31, 2018 09:25:05.48 NEW SESSION
+out 31, 2018 09:25:05.50 [4264:27444:1031/092505.454:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+out 31, 2018 09:25:05.55 [4264:27444:1031/092505.485:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+out 31, 2018 09:25:09.52 [4264:27444:1031/092509.517:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+
+nov 05, 2018 10:47:11.38 NEW SESSION
+nov 05, 2018 10:47:11.40 [33524:30596:1105/104711.377:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 05, 2018 10:47:11.43 [33524:30596:1105/104711.377:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 05, 2018 10:47:11.71 [33524:34504:1105/104711.695:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 05, 2018 10:47:11.71 [33524:34504:1105/104711.695:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 05, 2018 10:47:11.72 [33524:34504:1105/104711.695:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 05, 2018 10:47:11.72 [33524:34504:1105/104711.695:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 05, 2018 10:47:14.22 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 05, 2018 10:48:44.36 [18980:32504:1105/104844.362:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 05, 2018 10:48:44.36 [18980:32504:1105/104844.362:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 05, 2018 10:48:44.44 [18980:11472:1105/104844.439:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 05, 2018 10:48:44.44 [18980:11472:1105/104844.439:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 05, 2018 10:48:44.45 [18980:11472:1105/104844.439:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 05, 2018 10:48:44.45 [18980:11472:1105/104844.439:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 05, 2018 10:48:44.73 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 05, 2018 10:51:23.02 [32652:20756:1105/105123.022:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 05, 2018 10:51:23.03 [32652:20756:1105/105123.022:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 05, 2018 10:51:23.10 [32652:28592:1105/105123.100:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 05, 2018 10:51:23.10 [32652:28592:1105/105123.100:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 05, 2018 10:51:23.11 [32652:28592:1105/105123.100:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 05, 2018 10:51:23.11 [32652:28592:1105/105123.100:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 05, 2018 10:51:23.36 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 05, 2018 10:54:03.85 [32228:21972:1105/105403.854:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 05, 2018 10:54:03.86 [32228:21972:1105/105403.854:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 05, 2018 10:54:03.93 [32228:35112:1105/105403.929:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 05, 2018 10:54:03.93 [32228:35112:1105/105403.929:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 05, 2018 10:54:03.94 [32228:35112:1105/105403.929:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 05, 2018 10:54:03.94 [32228:35112:1105/105403.929:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 05, 2018 10:54:04.20 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 05, 2018 11:07:59.19 [28244:34864:1105/110759.195:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 05, 2018 11:07:59.25 [28244:34864:1105/110759.195:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 05, 2018 11:07:59.32 [28244:30800:1105/110759.322:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 05, 2018 11:07:59.33 [28244:30800:1105/110759.322:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 05, 2018 11:07:59.33 [28244:30800:1105/110759.322:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 05, 2018 11:07:59.33 [28244:30800:1105/110759.322:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 05, 2018 11:08:01.39 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 05, 2018 11:29:06.11 [34504:35496:1105/112906.113:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 05, 2018 11:29:06.18 [34504:35496:1105/112906.113:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 05, 2018 11:29:06.32 [34504:31636:1105/112906.322:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 05, 2018 11:29:06.32 [34504:31636:1105/112906.322:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 05, 2018 11:29:06.33 [34504:31636:1105/112906.322:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 05, 2018 11:29:06.34 [34504:31636:1105/112906.322:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 05, 2018 11:29:08.14 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 05, 2018 11:34:16.38 [35408:35284:1105/113416.384:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 05, 2018 11:34:16.38 [35408:35284:1105/113416.384:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 05, 2018 11:34:16.47 [35408:25588:1105/113416.478:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 05, 2018 11:34:16.47 [35408:25588:1105/113416.478:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 05, 2018 11:34:16.49 [35408:25588:1105/113416.478:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 05, 2018 11:34:16.49 [35408:25588:1105/113416.478:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 05, 2018 11:34:16.72 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 05, 2018 11:38:00.63 [10464:34264:1105/113800.618:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 05, 2018 11:38:00.63 [10464:34264:1105/113800.618:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 05, 2018 11:38:01.18 [10464:32244:1105/113801.181:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 05, 2018 11:38:01.18 [10464:32244:1105/113801.181:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 05, 2018 11:38:01.18 [10464:32244:1105/113801.181:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 05, 2018 11:38:01.19 [10464:32244:1105/113801.181:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 05, 2018 11:38:01.53 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 06, 2018 09:07:37.25 [27760:34584:1106/090737.239:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 06, 2018 09:07:37.33 [27760:34584:1106/090737.286:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 06, 2018 09:07:50.61 [27760:34584:1106/090750.615:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 06, 2018 09:17:31.06 [27760:34584:1106/091731.049:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+nov 06, 2018 09:17:31.89 [27760:34584:1106/091731.896:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+nov 06, 2018 09:17:32.74 [27760:34584:1106/091732.745:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+nov 06, 2018 09:17:33.59 [27760:34584:1106/091733.593:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+nov 06, 2018 09:17:34.77 [27760:34584:1106/091734.771:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+nov 06, 2018 09:17:36.28 [27760:34584:1106/091736.283:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+nov 06, 2018 09:17:37.96 [27760:34584:1106/091737.962:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+nov 06, 2018 09:17:39.64 [27760:34584:1106/091739.641:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+nov 06, 2018 09:51:18.66 [30148:39640:1106/095118.647:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 06, 2018 09:51:18.69 [30148:39640:1106/095118.647:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 06, 2018 09:51:19.11 [30148:11136:1106/095119.110:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 06, 2018 09:51:19.11 [30148:11136:1106/095119.110:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 06, 2018 09:51:19.11 [30148:11136:1106/095119.110:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 06, 2018 09:51:19.12 [30148:11136:1106/095119.110:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 06, 2018 09:51:21.08 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 06, 2018 10:56:52.16 [27760:34584:1106/105652.131:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+nov 06, 2018 10:56:52.98 [27760:34584:1106/105652.977:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+nov 06, 2018 10:56:53.82 [27760:34584:1106/105653.824:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+nov 06, 2018 10:56:53.83 [27760:34584:1106/105653.825:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+nov 06, 2018 10:56:54.67 [27760:34584:1106/105654.673:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+nov 06, 2018 10:56:55.88 [27760:34584:1106/105655.886:ERROR:latency_info.cc(144)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+nov 06, 2018 11:02:47.66 [39484:28444:1106/110247.663:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 06, 2018 11:02:47.67 [39484:28444:1106/110247.663:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 06, 2018 11:02:48.02 [39484:40532:1106/110248.018:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 06, 2018 11:02:48.02 [39484:40532:1106/110248.018:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 06, 2018 11:02:48.03 [39484:40532:1106/110248.018:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 06, 2018 11:02:48.03 [39484:40532:1106/110248.018:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 06, 2018 11:02:48.62 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 06, 2018 11:06:04.11 [39136:35852:1106/110604.109:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 06, 2018 11:06:04.11 [39136:35852:1106/110604.109:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 06, 2018 11:06:04.24 [39136:41576:1106/110604.246:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 06, 2018 11:06:04.25 [39136:41576:1106/110604.246:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 06, 2018 11:06:04.26 [39136:41576:1106/110604.247:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 06, 2018 11:06:04.27 [39136:41576:1106/110604.247:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 06, 2018 11:06:04.49 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 06, 2018 11:10:02.23 [41944:39084:1106/111002.237:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 06, 2018 11:10:02.23 [41944:39084:1106/111002.237:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 06, 2018 11:10:02.33 [41944:42004:1106/111002.331:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 06, 2018 11:10:02.33 [41944:42004:1106/111002.331:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 06, 2018 11:10:02.34 [41944:42004:1106/111002.331:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 06, 2018 11:10:02.34 [41944:42004:1106/111002.331:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 06, 2018 11:10:02.58 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 06, 2018 11:11:11.95 [32060:34516:1106/111111.951:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 06, 2018 11:11:11.96 [32060:34516:1106/111111.951:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 06, 2018 11:11:12.02 [32060:42112:1106/111112.029:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 06, 2018 11:11:12.04 [32060:42112:1106/111112.029:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 06, 2018 11:11:12.04 [32060:42112:1106/111112.029:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 06, 2018 11:11:12.06 [32060:42112:1106/111112.029:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 06, 2018 11:11:12.31 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 06, 2018 11:15:17.73 [27760:40588:1106/111517.730:ERROR:ssl_client_socket_impl.cc(1061)] handshake failed; returned -1, SSL error code 1, net_error -100
+nov 06, 2018 11:15:41.65 [37916:35108:1106/111541.651:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 06, 2018 11:15:41.65 [37916:35108:1106/111541.651:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 06, 2018 11:15:41.76 [37916:38488:1106/111541.761:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 06, 2018 11:15:41.77 [37916:38488:1106/111541.761:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 06, 2018 11:15:41.79 [37916:38488:1106/111541.761:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 06, 2018 11:15:41.79 [37916:38488:1106/111541.761:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 06, 2018 11:15:42.05 Foi criada uma nova janela em uma sessão existente do navegador.
+
+nov 07, 2018 10:02:32.24 NEW SESSION
+nov 07, 2018 10:02:32.26 [12752:12760:1107/100232.217:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 10:02:32.31 [12752:12760:1107/100232.217:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 10:02:32.39 [12752:12456:1107/100232.388:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 10:02:32.39 [12752:12456:1107/100232.388:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 10:02:32.39 [12752:12456:1107/100232.388:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 10:02:32.39 [12752:12456:1107/100232.388:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 10:02:35.51 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 07, 2018 10:16:52.45 [12452:5364:1107/101652.453:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 10:16:52.45 [12452:5364:1107/101652.453:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 10:16:52.51 [12452:3172:1107/101652.518:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 10:16:52.51 [12452:3172:1107/101652.518:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 10:16:52.52 [12452:3172:1107/101652.518:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 10:16:52.52 [12452:3172:1107/101652.518:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 10:16:52.72 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 07, 2018 11:18:42.13 [6208:14292:1107/111842.139:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 11:18:42.13 [6208:14292:1107/111842.139:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 11:18:42.22 [6208:12688:1107/111842.220:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 11:18:42.22 [6208:12688:1107/111842.220:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 11:18:42.22 [6208:12688:1107/111842.220:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 11:18:42.22 [6208:12688:1107/111842.220:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 11:18:42.44 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 07, 2018 11:25:41.89 [6056:14328:1107/112541.891:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 11:25:41.89 [6056:14328:1107/112541.891:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 11:25:41.96 [6056:13880:1107/112541.969:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 11:25:41.96 [6056:13880:1107/112541.969:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 11:25:41.96 [6056:13880:1107/112541.969:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 11:25:41.96 [6056:13880:1107/112541.969:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 11:25:42.19 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 07, 2018 11:28:30.28 [3684:12864:1107/112830.288:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 11:28:30.30 [3684:12864:1107/112830.288:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 11:28:30.36 [3684:12692:1107/112830.366:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 11:28:30.36 [3684:12692:1107/112830.366:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 11:28:30.36 [3684:12692:1107/112830.366:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 11:28:30.36 [3684:12692:1107/112830.366:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 11:28:30.61 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 07, 2018 11:32:23.53 [12460:1536:1107/113223.537:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 11:32:23.53 [12460:1536:1107/113223.537:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 11:32:23.60 [12460:11644:1107/113223.599:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 11:32:23.60 [12460:11644:1107/113223.599:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 11:32:23.60 [12460:11644:1107/113223.599:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 11:32:23.60 [12460:11644:1107/113223.599:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 11:32:23.80 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 07, 2018 11:34:52.69 [3504:9408:1107/113452.694:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 11:34:52.69 [3504:9408:1107/113452.695:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 11:34:52.80 [3504:4172:1107/113452.800:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 11:34:52.80 [3504:4172:1107/113452.800:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 11:34:52.80 [3504:4172:1107/113452.800:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 11:34:52.80 [3504:4172:1107/113452.800:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 11:34:53.00 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 07, 2018 11:36:33.07 [10828:11012:1107/113633.061:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 11:36:33.07 [10828:11012:1107/113633.061:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 11:36:33.13 [10828:12988:1107/113633.139:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 11:36:33.13 [10828:12988:1107/113633.139:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 11:36:33.13 [10828:12988:1107/113633.139:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 11:36:33.13 [10828:12988:1107/113633.139:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 11:36:33.32 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 07, 2018 11:38:51.87 [12796:8076:1107/113851.875:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 07, 2018 11:38:51.87 [12796:8076:1107/113851.875:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 07, 2018 11:38:51.93 [12796:14064:1107/113851.937:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 07, 2018 11:38:51.93 [12796:14064:1107/113851.937:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 07, 2018 11:38:51.93 [12796:14064:1107/113851.937:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 07, 2018 11:38:51.93 [12796:14064:1107/113851.937:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 07, 2018 11:38:52.27 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 08, 2018 09:18:38.19 [15396:17752:1108/091838.190:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 08, 2018 09:18:38.21 [15396:17752:1108/091838.190:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 08, 2018 09:18:38.28 [15396:13108:1108/091838.287:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 08, 2018 09:18:38.28 [15396:13108:1108/091838.287:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 08, 2018 09:18:38.29 [15396:13108:1108/091838.287:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 08, 2018 09:18:38.29 [15396:13108:1108/091838.287:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 08, 2018 09:18:38.67 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 08, 2018 09:20:42.51 [11880:16652:1108/092042.515:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 08, 2018 09:20:42.51 [11880:16652:1108/092042.515:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 08, 2018 09:20:42.57 [11880:3996:1108/092042.577:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 08, 2018 09:20:42.57 [11880:3996:1108/092042.577:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 08, 2018 09:20:42.57 [11880:3996:1108/092042.577:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 08, 2018 09:20:42.59 [11880:3996:1108/092042.577:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 08, 2018 09:20:42.77 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 08, 2018 09:54:41.41 [19052:18832:1108/095441.416:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 08, 2018 09:54:41.41 [19052:18832:1108/095441.416:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 08, 2018 09:54:41.49 [19052:15896:1108/095441.494:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 08, 2018 09:54:41.51 [19052:15896:1108/095441.494:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 08, 2018 09:54:41.51 [19052:15896:1108/095441.494:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 08, 2018 09:54:41.51 [19052:15896:1108/095441.494:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 08, 2018 09:54:41.81 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 08, 2018 10:26:57.64 [16252:9084:1108/102657.643:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 08, 2018 10:26:57.64 [16252:9084:1108/102657.643:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 08, 2018 10:26:57.70 [16252:632:1108/102657.705:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 08, 2018 10:26:57.70 [16252:632:1108/102657.705:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 08, 2018 10:26:57.70 [16252:632:1108/102657.705:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 08, 2018 10:26:57.70 [16252:632:1108/102657.705:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 08, 2018 10:26:57.99 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 08, 2018 11:35:47.13 [21232:21204:1108/113547.132:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 08, 2018 11:35:47.14 [21232:21204:1108/113547.148:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 08, 2018 11:35:47.46 [21232:20972:1108/113547.445:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 08, 2018 11:35:47.46 [21232:20972:1108/113547.445:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 08, 2018 11:35:47.46 [21232:20972:1108/113547.445:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 08, 2018 11:35:47.46 [21232:20972:1108/113547.445:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 08, 2018 11:35:49.41 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 08, 2018 11:43:23.23 [19828:20204:1108/114323.233:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 08, 2018 11:43:23.23 [19828:20204:1108/114323.233:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 08, 2018 11:43:23.29 [19828:2996:1108/114323.295:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 08, 2018 11:43:23.29 [19828:2996:1108/114323.295:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 08, 2018 11:43:23.29 [19828:2996:1108/114323.295:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 08, 2018 11:43:23.31 [19828:2996:1108/114323.295:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 08, 2018 11:43:23.56 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 09, 2018 10:24:25.60 [21452:20600:1109/102425.584:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 09, 2018 10:24:25.61 [21452:20600:1109/102425.600:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 09, 2018 10:24:25.92 [21452:21136:1109/102425.928:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 09, 2018 10:24:25.92 [21452:21136:1109/102425.928:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 09, 2018 10:24:25.92 [21452:21136:1109/102425.928:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 09, 2018 10:24:25.92 [21452:21136:1109/102425.928:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 09, 2018 10:24:28.82 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 09, 2018 10:28:39.79 [13216:24844:1109/102839.791:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 09, 2018 10:28:39.79 [13216:24844:1109/102839.791:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 09, 2018 10:28:39.88 [13216:16188:1109/102839.870:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 09, 2018 10:28:39.88 [13216:16188:1109/102839.870:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 09, 2018 10:28:39.88 [13216:16188:1109/102839.870:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 09, 2018 10:28:39.88 [13216:16188:1109/102839.870:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 09, 2018 10:28:40.06 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 09, 2018 11:50:48.48 [3148:5480:1109/115048.480:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 09, 2018 11:50:48.49 [3148:5480:1109/115048.480:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 09, 2018 11:50:48.54 [3148:15076:1109/115048.542:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 09, 2018 11:50:48.54 [3148:15076:1109/115048.542:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 09, 2018 11:50:48.54 [3148:15076:1109/115048.542:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 09, 2018 11:50:48.55 [3148:15076:1109/115048.542:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 09, 2018 11:50:48.77 Foi criada uma nova janela em uma sessão existente do navegador.
+
+nov 12, 2018 09:04:47.87 NEW SESSION
+nov 12, 2018 09:04:47.89 [4488:7768:1112/090447.861:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 12, 2018 09:04:47.97 [4488:7768:1112/090447.861:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 12, 2018 09:04:47.97 [4488:14892:1112/090447.968:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 12, 2018 09:04:47.98 [4488:14892:1112/090447.968:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 12, 2018 09:04:47.98 [4488:14892:1112/090447.968:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 12, 2018 09:04:47.98 [4488:14892:1112/090447.968:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 12, 2018 09:04:48.31 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 12, 2018 09:10:18.81 [6192:15148:1112/091018.814:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 12, 2018 09:10:18.81 [6192:15148:1112/091018.814:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 12, 2018 09:10:18.90 [6192:14404:1112/091018.907:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 12, 2018 09:10:18.90 [6192:14404:1112/091018.907:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 12, 2018 09:10:18.90 [6192:14404:1112/091018.907:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 12, 2018 09:10:18.92 [6192:14404:1112/091018.907:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 12, 2018 09:10:19.16 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 12, 2018 10:42:57.90 [11368:14272:1112/104257.908:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 12, 2018 10:42:57.95 [11368:14272:1112/104257.908:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 12, 2018 10:42:58.23 [11368:11512:1112/104258.236:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 12, 2018 10:42:58.25 [11368:11512:1112/104258.236:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 12, 2018 10:42:58.25 [11368:11512:1112/104258.236:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 12, 2018 10:42:58.25 [11368:11512:1112/104258.236:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 12, 2018 10:42:59.67 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 12, 2018 10:46:10.33 [15024:8816:1112/104610.331:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 12, 2018 10:46:10.33 [15024:8816:1112/104610.331:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 12, 2018 10:46:10.40 [15024:10800:1112/104610.409:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 12, 2018 10:46:10.42 [15024:10800:1112/104610.409:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 12, 2018 10:46:10.42 [15024:10800:1112/104610.409:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 12, 2018 10:46:10.42 [15024:10800:1112/104610.409:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 12, 2018 10:46:10.64 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 13, 2018 10:51:35.39 [18272:16768:1113/105135.367:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 13, 2018 10:51:35.50 [18272:16768:1113/105135.367:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 13, 2018 10:51:35.77 [18272:19004:1113/105135.757:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 13, 2018 10:51:35.77 [18272:19004:1113/105135.757:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 13, 2018 10:51:35.77 [18272:19004:1113/105135.757:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 13, 2018 10:51:35.77 [18272:19004:1113/105135.757:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 13, 2018 10:51:38.61 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 13, 2018 10:56:52.26 [17680:21408:1113/105652.265:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 13, 2018 10:56:52.26 [17680:21408:1113/105652.265:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 13, 2018 10:56:52.37 [17680:17612:1113/105652.374:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 13, 2018 10:56:52.37 [17680:17612:1113/105652.374:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 13, 2018 10:56:52.39 [17680:17612:1113/105652.374:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 13, 2018 10:56:52.39 [17680:17612:1113/105652.374:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 13, 2018 10:56:52.67 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 13, 2018 11:01:21.89 [21472:18504:1113/110121.891:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 13, 2018 11:01:21.90 [21472:18504:1113/110121.891:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 13, 2018 11:01:21.96 [21472:20316:1113/110121.969:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 13, 2018 11:01:21.98 [21472:20316:1113/110121.969:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 13, 2018 11:01:21.98 [21472:20316:1113/110121.969:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 13, 2018 11:01:21.98 [21472:20316:1113/110121.969:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 13, 2018 11:01:22.29 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 13, 2018 11:06:21.73 [21492:19024:1113/110621.734:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 13, 2018 11:06:21.73 [21492:19024:1113/110621.735:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 13, 2018 11:06:21.85 [21492:21240:1113/110621.857:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 13, 2018 11:06:21.86 [21492:21240:1113/110621.857:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 13, 2018 11:06:21.86 [21492:21240:1113/110621.857:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 13, 2018 11:06:21.87 [21492:21240:1113/110621.857:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 13, 2018 11:06:22.16 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 13, 2018 11:22:29.59 [20748:2288:1113/112229.599:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 13, 2018 11:22:29.66 [20748:2288:1113/112229.599:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 13, 2018 11:22:29.70 [20748:18008:1113/112229.708:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 13, 2018 11:22:29.70 [20748:18008:1113/112229.708:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 13, 2018 11:22:29.70 [20748:18008:1113/112229.708:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 13, 2018 11:22:29.72 [20748:18008:1113/112229.708:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 13, 2018 11:22:30.25 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 14, 2018 11:26:30.14 [21968:13944:1114/112630.130:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 14, 2018 11:26:30.17 [21968:13944:1114/112630.130:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 14, 2018 11:26:30.51 [21968:10468:1114/112630.512:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 14, 2018 11:26:30.51 [21968:10468:1114/112630.512:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 14, 2018 11:26:30.52 [21968:10468:1114/112630.512:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 14, 2018 11:26:30.52 [21968:10468:1114/112630.512:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 14, 2018 11:26:33.34 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 14, 2018 11:29:56.21 [20904:26056:1114/112956.213:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 14, 2018 11:29:56.22 [20904:26056:1114/112956.213:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 14, 2018 11:29:56.30 [20904:1640:1114/112956.306:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 14, 2018 11:29:56.32 [20904:1640:1114/112956.306:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 14, 2018 11:29:56.32 [20904:1640:1114/112956.306:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 14, 2018 11:29:56.33 [20904:1640:1114/112956.306:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 14, 2018 11:29:56.55 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 14, 2018 11:30:31.40 [25288:17652:1114/113031.402:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 14, 2018 11:30:31.40 [25288:17652:1114/113031.402:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 14, 2018 11:30:31.48 [25288:20496:1114/113031.480:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 14, 2018 11:30:31.49 [25288:20496:1114/113031.480:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 14, 2018 11:30:31.49 [25288:20496:1114/113031.480:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 14, 2018 11:30:31.49 [25288:20496:1114/113031.480:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 14, 2018 11:30:31.77 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 14, 2018 11:34:21.12 [19860:25980:1114/113421.109:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 14, 2018 11:34:21.12 [19860:25980:1114/113421.109:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 14, 2018 11:34:21.21 [19860:20320:1114/113421.219:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 14, 2018 11:34:21.21 [19860:20320:1114/113421.219:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 14, 2018 11:34:21.21 [19860:20320:1114/113421.219:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 14, 2018 11:34:21.23 [19860:20320:1114/113421.219:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 14, 2018 11:34:21.49 Foi criada uma nova janela em uma sessão existente do navegador.
+nov 14, 2018 11:38:52.52 [27276:19792:1114/113852.523:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 14, 2018 11:38:52.52 [27276:19792:1114/113852.523:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 14, 2018 11:38:52.61 [27276:17456:1114/113852.616:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 14, 2018 11:38:52.63 [27276:17456:1114/113852.616:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 14, 2018 11:38:52.63 [27276:17456:1114/113852.616:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 14, 2018 11:38:52.63 [27276:17456:1114/113852.616:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 14, 2018 11:38:52.89 Foi criada uma nova janela em uma sessão existente do navegador.
+
+nov 21, 2018 10:01:32.34 NEW SESSION
+nov 21, 2018 10:01:32.36 [696:9572:1121/100132.317:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 21, 2018 10:01:32.37 [696:9572:1121/100132.337:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 21, 2018 10:01:32.79 [696:13240:1121/100132.794:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 21, 2018 10:01:32.79 [696:13240:1121/100132.794:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 21, 2018 10:01:32.79 [696:13240:1121/100132.794:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 21, 2018 10:01:32.81 [696:13240:1121/100132.794:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 21, 2018 10:01:34.71 Foi criada uma nova janela em uma sessão existente do navegador.
+
+nov 30, 2018 09:27:54.17 NEW SESSION
+nov 30, 2018 09:27:54.17 [17780:3232:1130/092754.171:ERROR:install_util.cc(691)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: O sistema não pode encontrar o arquivo especificado. (0x2)
+nov 30, 2018 09:27:54.20 [17780:3232:1130/092754.171:ERROR:configuration_policy_handler_list.cc(91)] Unknown policy: EnableCommonNameFallbackForLocalAnchors
+nov 30, 2018 09:27:54.45 [17780:17300:1130/092754.455:ERROR:cache_util_win.cc(19)] Unable to move the cache: 5
+nov 30, 2018 09:27:54.45 [17780:17300:1130/092754.455:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\osevangelista\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+nov 30, 2018 09:27:54.45 [17780:17300:1130/092754.455:ERROR:disk_cache.cc(168)] Unable to create cache
+nov 30, 2018 09:27:54.45 [17780:17300:1130/092754.455:ERROR:shader_disk_cache.cc(620)] Shader Cache Creation failed: -2
+nov 30, 2018 09:27:57.53 Foi criada uma nova janela em uma sessão existente do navegador.
